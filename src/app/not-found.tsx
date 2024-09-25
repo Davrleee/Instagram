@@ -9,7 +9,7 @@ export default function NotFound() {
   
     return(
     <Box>
-      <Typography> There's nothing like </Typography>
+      <Typography> Nič tu nie je </Typography>
     </Box>
     );
 }
